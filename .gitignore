@@ -1,0 +1,48 @@
+# Скомпилированные файлы
+Debug/
+Release/
+objects/
+*.o
+*.d
+*.axf
+*.hex
+*.bin
+*.elf
+*.out
+
+# Папки сборки Keil
+MDK-ARM/Listings/
+MDK-ARM/Objects/
+MDK-ARM/DebugConfig/
+MDK-ARM/RTE/
+MDK-ARM/*.crf
+MDK-ARM/*.htm
+MDK-ARM/*.sct
+MDK-ARM/*.map
+MDK-ARM/*.dep
+
+# Личные настройки Keil
+*.uvguix*
+*.uvoptx
+*.scvd
+
+# CubeMX / STM32CubeIDE
+*.ioc.bak
+*.mxproject
+.mxproject
+.settings/
+.cproject
+.project
+*.launch
+Drivers/STM32G0xx_HAL_Driver/Release/
+Middlewares/
+
+# Системные файлы
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Временные файлы редакторов
+*.swp
+*.swo
+*~
