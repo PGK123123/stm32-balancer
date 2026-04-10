@@ -34,6 +34,8 @@ work\adc.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_flash.h
 work\adc.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_flash_ex.h
 work\adc.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_pwr.h
 work\adc.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_pwr_ex.h
+work\adc.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_spi.h
+work\adc.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_spi_ex.h
 work\adc.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_tim.h
 work\adc.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_tim_ex.h
 work\adc.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_uart.h

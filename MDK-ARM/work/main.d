@@ -33,6 +33,8 @@ work\main.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_flash.h
 work\main.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_flash_ex.h
 work\main.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_pwr.h
 work\main.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_pwr_ex.h
+work\main.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_spi.h
+work\main.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_spi_ex.h
 work\main.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_tim.h
 work\main.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_tim_ex.h
 work\main.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_uart.h
@@ -40,6 +42,7 @@ work\main.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_uart_ex.h
 work\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 work\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 work\main.o: ../Core/Inc/adc.h
+work\main.o: ../Core/Inc/spi.h
 work\main.o: ../Core/Inc/tim.h
 work\main.o: ../Core/Inc/usart.h
 work\main.o: ../Core/Inc/gpio.h
