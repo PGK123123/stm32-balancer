@@ -87,7 +87,7 @@ I (../Core/Inc/tim.h)(0x69AD6103)
 I (../Core/Inc/usart.h)(0x69AC8859)
 I (../Core/Inc/gpio.h)(0x69AC8858)
 I (../Core/Inc/my_adc.h)(0x69B2DD3B)
-I (../Core/Inc/leds.h)(0x69B2DCCA)
+I (../Core/Inc/leds.h)(0x69D8C046)
 F (../Core/Src/gpio.c)(0x69B1C65A)(--c99 -c --cpu Cortex-M0+ -D__EVAL -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32G0xx_HAL_Driver/Inc -I ../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32G0xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\_work-IC:\Users\skagh\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32G031xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32G031xx-o work\gpio.o --omf_browse work\gpio.crf --depend work\gpio.d)
 I (../Core/Inc/gpio.h)(0x69AC8858)
 I (../Core/Inc/main.h)(0x69B1C65B)
@@ -333,8 +333,8 @@ I (../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_uart.h)(0x63D91B69)
 I (../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_uart_ex.h)(0x63D91B69)
 I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x602569C4)
 I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x602569CE)
-F (..\Core\Src\leds.c)(0x69B2DCCA)(--c99 -c --cpu Cortex-M0+ -D__EVAL -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32G0xx_HAL_Driver/Inc -I ../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32G0xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\_work-IC:\Users\skagh\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32G031xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32G031xx-o work\leds.o --omf_browse work\leds.crf --depend work\leds.d)
-I (../Core/Inc/leds.h)(0x69B2DCCA)
+F (..\Core\Src\leds.c)(0x69D8C054)(--c99 -c --cpu Cortex-M0+ -D__EVAL -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32G0xx_HAL_Driver/Inc -I ../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32G0xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\_work-IC:\Users\skagh\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32G031xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32G031xx-o work\leds.o --omf_browse work\leds.crf --depend work\leds.d)
+I (../Core/Inc/leds.h)(0x69D8C046)
 I (../Core/Inc/main.h)(0x69B1C65B)
 I (../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal.h)(0x63D91B69)
 I (../Core/Inc/stm32g0xx_hal_conf.h)(0x69AC885A)

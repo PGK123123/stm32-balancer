@@ -19,7 +19,7 @@
 #define LED5_PIN    GPIO_PIN_11
 #define LED5_PORT   GPIOA
 
-#define LED6_PIN    GPIO_PIN_6
+#define LED6_PIN    GPIO_PIN_8
 #define LED6_PORT   GPIOA
 
 #define LED7_PIN    GPIO_PIN_7
